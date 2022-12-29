@@ -1,0 +1,1 @@
+const long double numberPOW(unsigned long numberF, long long numberG);
